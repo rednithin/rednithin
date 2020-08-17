@@ -51,7 +51,7 @@
 
 ---
 <details>
-    <summary>⚡ Github Stats</summary>
+    <summary><b>⚡ Github Stats</b></summary>
     <br />  
     <img alt="rednithin Github Stats" src="https://github-readme-stats.vercel.app/api?username=rednithin&show_icons=true&hide_border=true&count_private=true" />
 </details>
@@ -59,7 +59,7 @@
 <br />
 
 <details>
-    <summary> ⚡Top Languages</summary>
+    <summary><b>⚡ Top Languages</b></summary>
     <br />  
     <img alt="rednithin Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rednithin&layout=compact&hide=jupyter%20notebook,html"/>
 </details>
