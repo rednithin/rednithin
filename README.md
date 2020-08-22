@@ -54,7 +54,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Markdown Cheatsheet](https://rednithin.github.io/blog/first/)
+- [Markdown Cheatsheet](https://rednithin.github.io/blog/1-markdown-cheatsheet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
