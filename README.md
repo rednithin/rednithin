@@ -54,6 +54,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Orange Pi 4B Armbian Configuration](https://rednithin.github.io/blog/2-orangepi-config/)
 - [Markdown Cheatsheet](https://rednithin.github.io/blog/1-markdown-cheatsheet/)
 <!-- BLOG-POST-LIST:END -->
 
