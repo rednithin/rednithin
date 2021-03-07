@@ -54,6 +54,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Easiest way to turn a static website into a PWA](https://rednithin.github.io/blog/3-easiest-way-to-make-a-static-website-into-a-pwa/)
 - [Orange Pi 4B Armbian Configuration](https://rednithin.github.io/blog/2-orangepi-config/)
 - [Markdown Cheatsheet](https://rednithin.github.io/blog/1-markdown-cheatsheet/)
 <!-- BLOG-POST-LIST:END -->
