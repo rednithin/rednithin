@@ -45,6 +45,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [#1 - Creating an Online Judge in Rust - Time Limit Exceeded](https://www.youtube.com/watch?v=2BFsOwauZV4)
 - [Random Leetcode Stream](https://www.youtube.com/watch?v=7ghDbLFlwlE)
 - [CSES - Weird Algorithm Solution in Python & Rust](https://www.youtube.com/watch?v=TxGo1FN8Srw)
 - [Algorithm - Next Smallest Palindrome (Explanation + Code)](https://www.youtube.com/watch?v=Mm3zKDP_ajI)
