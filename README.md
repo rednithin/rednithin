@@ -45,7 +45,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [ACCESS YOUR DEVICES FROM ANYWHERE IN THE WORLD FOR FREE](https://www.youtube.com/watch?v=HMkHnl1yY_w)
+- [Access your devices from anywhere in the world for FREE!](https://www.youtube.com/watch?v=HMkHnl1yY_w)
 - [#3 - Creating an Online Judge in Rust - Linux Namespaces & Creating A Root Filesystem](https://www.youtube.com/watch?v=8nfWISee9NU)
 - [#2 - Creating an Online Judge in Rust - Architecture For Building Leetcode From Scratch](https://www.youtube.com/watch?v=shy3TpSx-b0)
 - [#1 - Creating an Online Judge in Rust - Time Limit Exceeded](https://www.youtube.com/watch?v=2BFsOwauZV4)
